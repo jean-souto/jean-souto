@@ -26,17 +26,6 @@ Meus repositórios refletem meus estudos e atuação profissional, com foco em:
 
 ---
 
-### 📊 GitHub Stats
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jean-souto&show_icons=true&theme=transparent&hide_border=true&title_color=00ADD8&text_color=8b949e&icon_color=00ADD8&count_private=true" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jean-souto&layout=compact&theme=transparent&hide_border=true&title_color=00ADD8&text_color=8b949e" />
-</a>
-
----
-
-<i>🎮 Games • 🍳 Cozinha • 📚 Leitura • 🏃 Esportes</i>
-
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jean-souto/)
